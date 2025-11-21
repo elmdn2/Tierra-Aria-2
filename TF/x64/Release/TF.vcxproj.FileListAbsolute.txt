@@ -1,0 +1,8 @@
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.vcxproj.AssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.ElJuego.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.ElMenu.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.Ganaste.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.LasInstrucciones.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.LosCreditos.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.PerderForm.resources
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\x64\Release\TF.vcxproj.GenerateResource.cache

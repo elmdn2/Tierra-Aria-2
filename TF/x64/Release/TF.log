@@ -1,0 +1,47 @@
+﻿  Agua.cpp
+  Arbol.cpp
+  Background.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Background.cpp(9,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Background.cpp(10,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Basura.cpp
+  Chaos.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Chaos.cpp(40,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Chaos.cpp(43,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ElJuego.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(40,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElJuego.cpp')
+  
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(39,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElJuego.cpp')
+  
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(50,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElJuego.cpp')
+  
+  ElMenu.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(40,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElMenu.cpp')
+  
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(39,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElMenu.cpp')
+  
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\ElJuego.h(50,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ElMenu.cpp')
+  
+  Entidad.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Entidad.cpp(5,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ganaste.cpp
+  Juego.cpp
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Juego.cpp(81,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Juego.cpp(117,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Juego.cpp(127,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\TF\Juego.cpp(137,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LasInstrucciones.cpp
+  LosCreditos.cpp
+  PerderForm.cpp
+  Residuo.cpp
+  Semilla.cpp
+  Vida.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Agua.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TF.vcxproj -> C:\Users\Juan\Documents\GitHub\Tierra-Aria-2\x64\Release\TF.exe
